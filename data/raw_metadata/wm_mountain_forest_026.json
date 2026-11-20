@@ -1,0 +1,107 @@
+{
+  "pageid": 201904228,
+  "ns": 6,
+  "title": "File:Cascade Canyon Trail through conifers, Grand Teton National Park.jpg",
+  "index": 3,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 7124318,
+      "width": 3024,
+      "height": 4032,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Cascade_Canyon_Trail_through_conifers%2C_Grand_Teton_National_Park.jpg/1280px-Cascade_Canyon_Trail_through_conifers%2C_Grand_Teton_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 1024,
+      "thumbheight": 1365,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cascade_Canyon_Trail_through_conifers%2C_Grand_Teton_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Cascade_Canyon_Trail_through_conifers%2C_Grand_Teton_National_Park.jpg/1280px-Cascade_Canyon_Trail_through_conifers%2C_Grand_Teton_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1024,
+        "height": 1365,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cascade_Canyon_Trail_through_conifers%2C_Grand_Teton_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cascade_Canyon_Trail_through_conifers%2C_Grand_Teton_National_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cascade_Canyon_Trail_through_conifers,_Grand_Teton_National_Park.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/201904228",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-10-17 18:15:50",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Cascade Canyon Trail through conifers, Grand Teton National Park",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|July 2018 in Wyoming|Cascade Canyon Trail",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Cascade Canyon Trail, a dirt path, winding between conifers and green undergrowth in Cascade Canyon, Grand Teton National Park, Wyoming, with a rocky peak and clouds ahead.\nThis image was captured near the boundary of the Granitic Subalpine Zone (17k) and Alpine Zone (17h) EPA Level IV Ecoregions. In One Earth's ecoregion framework, this image captures the South Central Rockies Forests Ecoregion.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2018-07-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Z3lvs\" title=\"User:Z3lvs\">Z3lvs</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+PocketLens: Mobile-First Visual RAG & RLAIF Benchmark Suite
+Copyright 2026 Chansu Shin (devshin-91 / devshin91@gmail.com)
+
+This product includes software and technical documentation developed by
+Chansu Shin (devshin91@gmail.com), licensed under the Apache License,
+Version 2.0 (for source code) and CC BY 4.0 (for benchmark reports and
+documentation).
+
+This repository also bundles or references commercially usable third-party
+open-license media assets, pretrained/quantized vision-language model weights,
+fonts, and icon sets:
+
+1. Open-License Photo & Video Dataset (61 double-fact-checked assets under
+   CC0 1.0, Public Domain, CC BY 3.0, and CC BY 4.0 from Wikimedia Commons,
+   NASA Image and Video Library, and Intel IoT DevKit Sample Videos):
+   See `CREDITS.md` and `data/manifest_verified.json` for item-by-item
+   creators, license links, source URLs, and SHA-256 checksums.
+
+2. Open-Weight Multimodal Encoders & Vision-Language Models (`MIT` and
+   `Apache-2.0`) and UI Assets (`Lucide Icons` under `ISC`/`MIT`,
+   `Pretendard` and `Inter` under `SIL OFL 1.1`):
+   See `THIRD_PARTY_LICENSES.md` for full license notices and compliance audit.

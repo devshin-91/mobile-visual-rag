@@ -1,0 +1,103 @@
+{
+  "pageid": 89012390,
+  "ns": 6,
+  "title": "File:A tram car passes the Federal Coffee Palace in Melbourne, Victoria, Australia.jpg",
+  "index": 5,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 257084,
+      "width": 1280,
+      "height": 1714,
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/A_tram_car_passes_the_Federal_Coffee_Palace_in_Melbourne%2C_Victoria%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 1024,
+      "thumbheight": 1371,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/A_tram_car_passes_the_Federal_Coffee_Palace_in_Melbourne%2C_Victoria%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1024,
+        "height": 1371
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/A_tram_car_passes_the_Federal_Coffee_Palace_in_Melbourne%2C_Victoria%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_tram_car_passes_the_Federal_Coffee_Palace_in_Melbourne,_Victoria,_Australia.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/89012390",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-07-06 13:20:09",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "A tram car passes the Federal Coffee Palace in Melbourne, Victoria, Australia",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Trams in Melbourne|Melbourne in the 1890s|CC-Zero|Transport in Melbourne|Victorian architecture in Australia|King Street, Melbourne|Federal Coffee Palace|Trams in Collins Street, Melbourne",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A cable tram, apart of Melbourne's early tram network, passes the ornate Victorian Gothic Federal Coffee Palace on the south-west corner of Collins and King Streets in the Melbourne city centre, dated approximately between 1890 to 1900.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "1899",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.ngv.vic.gov.au/explore/collection/work/99966/\">https://www.ngv.vic.gov.au/explore/collection/work/99966/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "J.W. Lindt",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "image/jpeg"
+    }
+  ]
+}

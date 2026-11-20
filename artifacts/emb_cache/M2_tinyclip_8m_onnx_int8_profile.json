@@ -1,0 +1,11 @@
+{
+  "model_key": "M2_tinyclip_8m_onnx_int8",
+  "hf_id": "wkcn/TinyCLIP-ViT-8M-16-Text-3M-YFCC15M",
+  "license": "MIT",
+  "multilingual": false,
+  "is_onnx": true,
+  "embedding_dim": 512,
+  "corpus_index_sec": 6.96,
+  "image_encode_p50_ms": 76.95,
+  "text_encode_p50_ms": 6.45
+}

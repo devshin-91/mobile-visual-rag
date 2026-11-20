@@ -1,0 +1,11 @@
+{
+  "model_key": "M6_siglip2_base_fp32",
+  "hf_id": "google/siglip2-base-patch16-224",
+  "license": "Apache-2.0",
+  "multilingual": true,
+  "is_onnx": false,
+  "embedding_dim": 768,
+  "corpus_index_sec": 3.89,
+  "image_encode_p50_ms": 39.63,
+  "text_encode_p50_ms": 15.51
+}

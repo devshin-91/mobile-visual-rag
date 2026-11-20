@@ -1,0 +1,93 @@
+{
+  "pageid": 90383510,
+  "ns": 6,
+  "title": "File:Calle de Chueca por la noche.webm",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 13370772,
+      "width": 960,
+      "height": 540,
+      "duration": 50.034,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Calle_de_Chueca_por_la_noche.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Calle_de_Chueca_por_la_noche.webm",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/90383510",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2020-05-17 17:30:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Calle de Chueca por la noche",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Calle de las Infantas, Madrid|Uploaded with video2commons|Videos of 2019 from Spain|Videos from Vimeo|License reviewed by YouTubeReviewBot|Nightlife of Madrid|Madrid Gay Pride 2019|Videos by Nicolas Vigier",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Calle de Chueca por la noche",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-09-08",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/Category:Vimeo\" title=\"Category:Vimeo\">Vimeo</a>: <a rel=\"nofollow\" class=\"external text\" data-mw-original-href=\"//vimeo.com/358681257\" href=\"https://vimeo.com/358681257\">Madrid</a> (<a rel=\"nofollow\" class=\"external text\" href=\"//web.archive.org/web/*/https://vimeo.com/358681257\"><span style=\"color:#9602fc\">view archived source</span></a>)",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://vimeo.com/user50573967\">Nicolas Vigier</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "video/webm"
+    }
+  ]
+}

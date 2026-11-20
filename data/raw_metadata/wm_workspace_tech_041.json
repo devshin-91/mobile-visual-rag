@@ -1,0 +1,103 @@
+{
+  "pageid": 41722100,
+  "ns": 6,
+  "title": "File:Laptop picture with notepad.jpg",
+  "index": 2,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 169282,
+      "width": 1080,
+      "height": 1080,
+      "thumburl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Laptop_picture_with_notepad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "thumbwidth": 1024,
+      "thumbheight": 1024,
+      "thumbattribs": {
+        "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Laptop_picture_with_notepad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1024,
+        "height": 1024
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Laptop_picture_with_notepad.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Laptop_picture_with_notepad.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/41722100",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2015-07-20 18:52:47",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Laptop picture with notepad",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Pens|Files from external sources with reviewed licenses|Notepads|Desk sets|MacBook Pro (Intel-based)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A typical scene at my desk",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2014-05-21 20:11:04",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "cropped from <a href=\"//commons.wikimedia.org/wiki/File:Laptop-notebook-clean-hero_(23699770333).jpg\" title=\"File:Laptop-notebook-clean-hero (23699770333).jpg\">File:Laptop-notebook-clean-hero (23699770333).jpg</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Eric Bailey",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "image/jpeg"
+    }
+  ]
+}

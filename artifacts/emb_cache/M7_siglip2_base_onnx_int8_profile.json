@@ -1,0 +1,11 @@
+{
+  "model_key": "M7_siglip2_base_onnx_int8",
+  "hf_id": "google/siglip2-base-patch16-224",
+  "license": "Apache-2.0",
+  "multilingual": true,
+  "is_onnx": true,
+  "embedding_dim": 768,
+  "corpus_index_sec": 36.11,
+  "image_encode_p50_ms": 265.88,
+  "text_encode_p50_ms": 68.95
+}

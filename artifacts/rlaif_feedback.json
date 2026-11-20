@@ -1,0 +1,1007 @@
+{
+  "judge_model": "Qwen/Qwen2-VL-2B-Instruct (Apache-2.0)",
+  "caption_synthesizer_model": "HuggingFaceTB/SmolVLM2-500M-Video-Instruct (Apache-2.0)",
+  "train_preference_pairs_count": 80,
+  "learned_bradley_terry_weights": [
+    0.2405,
+    0.3817,
+    0.0752,
+    0.1713,
+    0.2226,
+    0.355,
+    0.4874
+  ],
+  "held_out_rubric_means": {
+    "R0_raw_baseline": {
+      "top1_entity": 4.125,
+      "top1_attribute": 4.125,
+      "top1_media_fit": 4.125,
+      "top1_overall": 4.125,
+      "top3_mean_overall": 3.396
+    },
+    "R1_caption_hybrid": {
+      "top1_entity": 3.938,
+      "top1_attribute": 3.938,
+      "top1_media_fit": 3.938,
+      "top1_overall": 3.938,
+      "top3_mean_overall": 3.292
+    },
+    "R4_pre_rlaif": {
+      "top1_entity": 4.062,
+      "top1_attribute": 4.062,
+      "top1_media_fit": 4.062,
+      "top1_overall": 4.062,
+      "top3_mean_overall": 3.542
+    },
+    "R4_post_rlaif": {
+      "top1_entity": 4.062,
+      "top1_attribute": 4.062,
+      "top1_media_fit": 4.062,
+      "top1_overall": 4.062,
+      "top3_mean_overall": 3.646
+    }
+  },
+  "debiased_pairwise_r4_vs_r0": {
+    "total_test_queries": 16,
+    "r4_wins": 0,
+    "r0_wins": 0,
+    "ties_or_swapped_inconsistent": 16,
+    "consistency_rate": 0.688,
+    "details": [
+      {
+        "query_id": "q02",
+        "query": "a cat sitting near a window",
+        "a_media_id": "wm_cat_008",
+        "b_media_id": "wm_cat_008",
+        "winner": "TIE",
+        "consistent": true,
+        "pass_ab": "SAME",
+        "pass_ba": "SAME"
+      },
+      {
+        "query_id": "q04",
+        "query": "해변 위로 지는 노을과 바다 파도",
+        "a_media_id": "wm_beach_sunset_021",
+        "b_media_id": "wm_beach_sunset_020",
+        "winner": "TIE",
+        "consistent": false,
+        "pass_ab": "1",
+        "pass_ba": "1"
+      },
+      {
+        "query_id": "q06",
+        "query": "산속 나무 사이로 이어진 숲길 등산로",
+        "a_media_id": "wm_mountain_forest_026",
+        "b_media_id": "wm_mountain_forest_026",
+        "winner": "TIE",
+        "consistent": true,
+        "pass_ab": "SAME",
+        "pass_ba": "SAME"
+      },
+      {
+        "query_id": "q08",
+        "query": "pink cherry blossoms blooming on tree branches",
+        "a_media_id": "wm_flowers_045",
+        "b_media_id": "wm_flowers_046",
+        "winner": "TIE",
+        "consistent": false,
+        "pass_ab": "1",
+        "pass_ba": "1"
+      },
+      {
+        "query_id": "q10",
+        "query": "화성 표면의 탐사 로버",
+        "a_media_id": "nasa_mars",
+        "b_media_id": "wm_mountain_forest_029",
+        "winner": "TIE",
+        "consistent": false,
+        "pass_ab": "1",
+        "pass_ba": "1"
+      },
+      {
+        "query_id": "q12",
+        "query": "pizza slices inside a cardboard box on wooden table",
+        "a_media_id": "wm_food_018",
+        "b_media_id": "wm_food_018",
+        "winner": "TIE",
+        "consistent": true,
+        "pass_ab": "SAME",
+        "pass_ba": "SAME"
+      },
+      {
+        "query_id": "q14",
+        "query": "밤에 가로등 불빛이 켜진 좁은 거리와 야시장 노점",
+        "a_media_id": "wm_city_night_032",
+        "b_media_id": "wm_city_night_032",
+        "winner": "TIE",
+        "consistent": true,
+        "pass_ab": "SAME",
+        "pass_ba": "SAME"
+      },
+      {
+        "query_id": "q16",
+        "query": "green tram number 2807 on a city street",
+        "a_media_id": "wm_transport_037",
+        "b_media_id": "wm_transport_037",
+        "winner": "TIE",
+        "consistent": true,
+        "pass_ab": "SAME",
+        "pass_ba": "SAME"
+      },
+      {
+        "query_id": "q18",
+        "query": "해바라기와 파란 우산이 보이는 정원",
+        "a_media_id": "wm_mountain_forest_026",
+        "b_media_id": "wm_mountain_forest_026",
+        "winner": "TIE",
+        "consistent": true,
+        "pass_ab": "SAME",
+        "pass_ba": "SAME"
+      },
+      {
+        "query_id": "q20",
+        "query": "어제 카페에서 마신 라떼 커피 사진 어디 있지",
+        "a_media_id": "wm_coffee_013",
+        "b_media_id": "wm_coffee_013",
+        "winner": "TIE",
+        "consistent": true,
+        "pass_ab": "SAME",
+        "pass_ba": "SAME"
+      },
+      {
+        "query_id": "q22",
+        "query": "최근에 저장한 분홍색 벚꽃 사진 좀 보여줘",
+        "a_media_id": "wm_flowers_046",
+        "b_media_id": "wm_flowers_046",
+        "winner": "TIE",
+        "consistent": true,
+        "pass_ab": "SAME",
+        "pass_ba": "SAME"
+      },
+      {
+        "query_id": "q24",
+        "query": "cat jumping off a wall in a narrow alley video",
+        "a_media_id": "vid_cat_salto",
+        "b_media_id": "vid_cat_salto",
+        "winner": "TIE",
+        "consistent": true,
+        "pass_ab": "SAME",
+        "pass_ba": "SAME"
+      },
+      {
+        "query_id": "q26",
+        "query": "밤거리에 사람들이 많이 모여서 걸어가는 동영상",
+        "a_media_id": "vid_chueca_night",
+        "b_media_id": "wm_city_night_032",
+        "winner": "TIE",
+        "consistent": false,
+        "pass_ab": "1",
+        "pass_ba": "1"
+      },
+      {
+        "query_id": "q28",
+        "query": "파란 뚜껑이 달린 투명한 물병들이 줄지어 있는 영상",
+        "a_media_id": "vid_intel_bottles",
+        "b_media_id": "vid_intel_bottles",
+        "winner": "TIE",
+        "consistent": true,
+        "pass_ab": "SAME",
+        "pass_ba": "SAME"
+      },
+      {
+        "query_id": "q30",
+        "query": "students sitting at desks talking in a classroom video",
+        "a_media_id": "vid_intel_classroom",
+        "b_media_id": "vid_intel_classroom",
+        "winner": "TIE",
+        "consistent": true,
+        "pass_ab": "SAME",
+        "pass_ba": "SAME"
+      },
+      {
+        "query_id": "q32",
+        "query": "white car driving in outdoor parking lot with painted lines video",
+        "a_media_id": "vid_intel_cars",
+        "b_media_id": "vid_intel_street_bike",
+        "winner": "TIE",
+        "consistent": false,
+        "pass_ab": "1",
+        "pass_ba": "1"
+      }
+    ]
+  },
+  "train_judge_logs": [
+    {
+      "query_id": "q01",
+      "query": "a brown and white dog on a sandy beach",
+      "scores": [
+        {
+          "media_id": "wm_dog_003",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a brown and white dog on a sandy beach, with the dog's tongue out and a sandal nearby, which matches the user's query."
+        },
+        {
+          "media_id": "wm_dog_001",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image clearly shows a brown and white dog on a sandy beach, with the dog's fur and the beach's texture being visible."
+        },
+        {
+          "media_id": "wm_dog_004",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image clearly shows a brown and white dog on a sandy beach, matching the user's query."
+        },
+        {
+          "media_id": "vid_cat_puddle",
+          "entity": 0.0,
+          "attribute": 0.0,
+          "media_fit": 0.0,
+          "overall": 0.0,
+          "reason": "The image does not contain a brown and white dog on a sandy beach."
+        }
+      ]
+    },
+    {
+      "query_id": "q03",
+      "query": "coffee cup with latte art on a table",
+      "scores": [
+        {
+          "media_id": "wm_coffee_010",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The retrieved image clearly shows a coffee cup with latte art on a table, matching the user's query for a coffee cup with latte art."
+        },
+        {
+          "media_id": "wm_coffee_011",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a coffee cup with latte art on a table, matching the user's query."
+        },
+        {
+          "media_id": "wm_coffee_012",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a coffee cup with latte art on a table, matching the user's query for a coffee cup with latte art."
+        },
+        {
+          "media_id": "wm_coffee_013",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a coffee cup with latte art on a table, matching the user's query for a coffee cup with latte art."
+        }
+      ]
+    },
+    {
+      "query_id": "q05",
+      "query": "rocky waterfall surrounded by green forest",
+      "scores": [
+        {
+          "media_id": "wm_mountain_forest_027",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a rocky waterfall surrounded by a green forest, which matches the user's query. The visual evidence is strong and the candidate media type is an image, fitting the query's requ"
+        },
+        {
+          "media_id": "wm_mountain_forest_025",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image clearly shows a rocky waterfall surrounded by green forest, which matches the user's query. The colors, lighting, and spatial relationships are accurate, and the candidate media type (image)"
+        },
+        {
+          "media_id": "wm_mountain_forest_029",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image shows a rocky waterfall surrounded by green forest, which matches the user's query. The visual evidence is clear and relevant to the query."
+        },
+        {
+          "media_id": "wm_mountain_forest_026",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image clearly shows a rocky waterfall surrounded by green forest, which matches the user's query. The colors, lighting, and spatial relationships are accurate, and the candidate media type (image)"
+        }
+      ]
+    },
+    {
+      "query_id": "q07",
+      "query": "노트북과 공책 펜이 놓인 책상",
+      "scores": [
+        {
+          "media_id": "wm_workspace_tech_040",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a laptop, a notebook, and a pen on a desk, which matches the user's search query for a notebook and pen on a desk."
+        },
+        {
+          "media_id": "wm_workspace_tech_041",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image clearly shows a laptop, a notebook, and a pen on a table, which matches the user's search query for a laptop and notebook on a table."
+        },
+        {
+          "media_id": "wm_coffee_014",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a clear and detailed representation of a desk with a notebook, pen, and book, which matches the user's query for a desk setup."
+        },
+        {
+          "media_id": "vid_intel_fruits",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image clearly shows a notebook, a pen, and a book on a table, which matches the query request for a notebook and pen on a table."
+        }
+      ]
+    },
+    {
+      "query_id": "q09",
+      "query": "NASA rocket standing on launch pad with american flag",
+      "scores": [
+        {
+          "media_id": "nasa_rocket",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a NASA rocket standing on a launch pad with an American flag in the background, meeting all the criteria for the query."
+        },
+        {
+          "media_id": "vid_cat_salto",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The retrieved image is a video of a rocket on a launch pad with an American flag, which matches the user's query. The video quality is good, and the rocket and flag are clearly visible."
+        },
+        {
+          "media_id": "wm_flowers_044",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a clear and detailed representation of a rocket on a launch pad with an American flag, which matches the user's query. The rocket and flag are clearly visible, and the image quality is go"
+        },
+        {
+          "media_id": "wm_dog_004",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a clear and detailed representation of a rocket on a launch pad with an American flag, which matches the user's query. The rocket and flag are well-defined and the image is of high qualit"
+        },
+        {
+          "media_id": "vid_intel_street_bike",
+          "entity": 0.0,
+          "attribute": 0.0,
+          "media_fit": 0.0,
+          "overall": 0.0,
+          "reason": "The image retrieved does not contain a rocket or an American flag, which are the requested entities/objects in the user's search query."
+        }
+      ]
+    },
+    {
+      "query_id": "q11",
+      "query": "라떼 커피잔과 보라색 꽃병 책 스마트폰이 함께 있는 나무 테이블",
+      "scores": [
+        {
+          "media_id": "wm_coffee_014",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a latte cup, a book, and a flowerpot on a wooden table, which matches the user's query for a coffee cup and a flowerpot."
+        },
+        {
+          "media_id": "wm_coffee_010",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The retrieved image is a clear and detailed representation of the user's query, showing a cup of coffee, a blue flower vase, a book, and a smartphone on a wooden table. The colors, objects, and spatia"
+        },
+        {
+          "media_id": "wm_coffee_013",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "```json\n{\n  \"entity\": 5,\n  \"attribute\": 5,\n  \"media_fit\": 5,\n  \"overall\": 5,\n  \"reason\": \"The image clearly shows a latte coffee cup with a latte art design, a "
+        },
+        {
+          "media_id": "wm_workspace_tech_041",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image contains a laptop, a notebook, and a pen, which are all relevant to the user's search query. However, the coffee cup and the flower vase are not visible in the image, which is a limitation."
+        },
+        {
+          "media_id": "wm_coffee_012",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image contains a coffee cup, a book, and a smartphone, which are all visible and relevant to the user's search query. The coffee cup and smartphone are clearly visible, and the book is also presen"
+        }
+      ]
+    },
+    {
+      "query_id": "q13",
+      "query": "burger and fries served on a restaurant tray",
+      "scores": [
+        {
+          "media_id": "wm_food_016",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The retrieved image is a clear and detailed representation of a burger and fries on a restaurant tray, which matches the user's query for a burger and fries. The image is of high quality and provides "
+        },
+        {
+          "media_id": "wm_dog_004",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a clear and detailed representation of a burger and fries on a restaurant tray, which matches the user's query for a burger and fries. The colors, objects, and setting are all visible and"
+        },
+        {
+          "media_id": "wm_food_017",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a clear and detailed representation of a burger and fries, with the main subject being the burger. The burger is well-lit and the fries are visible, indicating a high-quality image."
+        },
+        {
+          "media_id": "vid_intel_fruits",
+          "entity": 0.0,
+          "attribute": 0.0,
+          "media_fit": 0.0,
+          "overall": 0.0,
+          "reason": "The image does not contain a burger or fries, and the main object is a pineapple, which is not related to the user's search query for a burger and fries served on a restaurant tray."
+        },
+        {
+          "media_id": "nasa_earth",
+          "entity": 0.0,
+          "attribute": 0.0,
+          "media_fit": 0.0,
+          "overall": 0.0,
+          "reason": "The image does not contain a burger or fries, and the main focus is on a restaurant tray, not a food item."
+        }
+      ]
+    },
+    {
+      "query_id": "q15",
+      "query": "Ordinance No. 928 night market amendment document",
+      "scores": [
+        {
+          "media_id": "wm_city_night_034",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image is clear and shows the key entities/objects requested in the query, including the night market, the amendment document, and the city's night market committee."
+        },
+        {
+          "media_id": "wm_city_night_033",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is clear and shows the key entities/objects requested in the query, which are the 'Night Market Ordinance of the City of Zamboanga' and the 'Amendment'. The colors, actions, setting, lightin"
+        },
+        {
+          "media_id": "wm_city_night_032",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a night market scene with clear visibility of the market stalls, people, and the street. The candidate media type is an image, which aligns with the query's request for an image."
+        },
+        {
+          "media_id": "vid_chueca_night",
+          "entity": 0.0,
+          "attribute": 0.0,
+          "media_fit": 0.0,
+          "overall": 0.0,
+          "reason": "The image does not contain any information related to the search query 'Ordinance No. 928 night market amendment document'. The candidate media type is video, but the query is for an image. Therefore,"
+        }
+      ]
+    },
+    {
+      "query_id": "q17",
+      "query": "우주 정거장에서 내려다본 밤의 지구",
+      "scores": [
+        {
+          "media_id": "wm_city_night_032",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a clear and detailed representation of a night scene on a street, with visible entities and attributes such as people, stalls, and street lamps. The candidate media type is an image, whic"
+        },
+        {
+          "media_id": "wm_city_night_030",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a clear and detailed representation of a night scene on Earth from a space station, with a visible moon and a street with buildings and plants. The candidate media type is an image, which"
+        },
+        {
+          "media_id": "wm_beach_sunset_022",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image captures a beautiful sunset with a clear sky and a silhouette of trees, which aligns with the user's request for a night view of the Earth from a space station. The colors and lighting are v"
+        },
+        {
+          "media_id": "vid_chueca_night",
+          "entity": 0.0,
+          "attribute": 0.0,
+          "media_fit": 0.0,
+          "overall": 0.0,
+          "reason": "The image does not contain any visual evidence of the requested object, '우주 정거장에서 내려다본 밤의 지구' (a view of the Earth from a space station at night). The image appears to be a street scene with people an"
+        },
+        {
+          "media_id": "vid_intel_cars",
+          "entity": 0.0,
+          "attribute": 0.0,
+          "media_fit": 0.0,
+          "overall": 0.0,
+          "reason": "The image does not contain any entities or objects that match the user's search query '우주 정거장에서 내려다본 밤의 지구'. The image appears to be a plain, black background with no visible entities or objects."
+        }
+      ]
+    },
+    {
+      "query_id": "q19",
+      "query": "지난 주말에 찍은 해변 강아지 사진 좀 찾아줘",
+      "scores": [
+        {
+          "media_id": "wm_beach_sunset_020",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a beach scene with a sunset, and the key entities (people, beach, and ocean) are visible and well-defined. The colors and lighting are accurate, and the image is of high qualit"
+        },
+        {
+          "media_id": "wm_beach_sunset_024",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image is a clear and high-quality photo of a beach scene with a dog, which matches the user's request for a dog photo. The colors, lighting, and composition are all well-executed, making it a high"
+        },
+        {
+          "media_id": "wm_beach_sunset_021",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image is a high-quality, well-composed photograph of a beach scene with a sunset, which matches the user's request for a photo of a beach with a dog. The colors, lighting, and composition are all "
+        },
+        {
+          "media_id": "wm_dog_001",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is clear and well-focused, showing a dog on a rocky beach. The dog is the main subject, and the background is not cluttered, making it easy to identify and understand the query."
+        },
+        {
+          "media_id": "wm_dog_004",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is clear and shows a dog in a natural setting, which matches the user's request for a beach dog photo."
+        }
+      ]
+    },
+    {
+      "query_id": "q21",
+      "query": "Please show me the photo of my laptop and ABC notebook on the desk from last week",
+      "scores": [
+        {
+          "media_id": "wm_workspace_tech_041",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The retrieved image is a clear and relevant representation of the user's query, showing the laptop and ABC notebook on the desk from last week. The colors, objects, and spatial relationships match the"
+        },
+        {
+          "media_id": "wm_workspace_tech_040",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The retrieved image is a clear and relevant representation of the user's query, showing the laptop and ABC notebook on the desk from last week. The colors, objects, and spatial relationships match the"
+        },
+        {
+          "media_id": "wm_coffee_014",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The retrieved image is a photo of a laptop and an ABC notebook, which matches the user's query. The image is clear and the objects are easily identifiable."
+        },
+        {
+          "media_id": "vid_intel_fruits",
+          "entity": 0.0,
+          "attribute": 0.0,
+          "media_fit": 0.0,
+          "overall": 0.0,
+          "reason": "The candidate media type is video, but the query requested a photo of a laptop and ABC notebook on the desk from last week. The retrieved image is a video of a pineapple on a treadmill, which does not"
+        }
+      ]
+    },
+    {
+      "query_id": "q23",
+      "query": "물웅덩이에서 물 마시는 고양이 동영상 찾아줘",
+      "scores": [
+        {
+          "media_id": "vid_cat_puddle",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a cat drinking water from a puddle, which matches the user's search query for a video of a cat drinking water."
+        },
+        {
+          "media_id": "vid_cat_salto",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a cat jumping from a wall, which matches the user's request for a video of a cat jumping."
+        },
+        {
+          "media_id": "vid_intel_cars",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a cat drinking water from a water bowl, which matches the query request for a video of a cat drinking water."
+        },
+        {
+          "media_id": "vid_intel_bottles",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a still photo of three bottles of water, with a hand holding one of them. The query is for a video of a cat drinking water from a bottle, which is not present in the image. Therefore, the"
+        },
+        {
+          "media_id": "wm_mountain_forest_025",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a still photo of a waterfall, not a video. The query is for a video, but the image is a still photo. The candidate media type is not a video, which is a constraint for the query."
+        }
+      ]
+    },
+    {
+      "query_id": "q25",
+      "query": "검은색과 흰색 고양이가 방에서 점프하며 노는 영상",
+      "scores": [
+        {
+          "media_id": "vid_intel_cars",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a black and white cat jumping out of a window, which matches the query's request for a video of a cat jumping out of a window."
+        },
+        {
+          "media_id": "vid_cat_salto",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a black and white cat jumping from a window, with a clear blue sky in the background. The colors, actions, setting, lighting, and spatial relationships match the query request."
+        },
+        {
+          "media_id": "wm_cat_009",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a still photo of a cat jumping out of a window, which does not match the user's request for a video of a cat jumping out of a window. The image quality is also not high, which affects the"
+        },
+        {
+          "media_id": "vid_cat_jump_back",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image contains a clear and detailed representation of a black and white cat jumping in a room, which matches the user's request for a video of a cat jumping."
+        },
+        {
+          "media_id": "vid_intel_fruits",
+          "entity": 0.0,
+          "attribute": 0.0,
+          "media_fit": 0.0,
+          "overall": 0.0,
+          "reason": "The image does not contain any visual evidence of a black and white cat jumping in a room, nor does it match the requested media type of a video."
+        }
+      ]
+    },
+    {
+      "query_id": "q27",
+      "query": "cars driving through a parking lot video clip",
+      "scores": [
+        {
+          "media_id": "vid_intel_street_bike",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a car driving through a parking lot, which matches the user's search query for a video clip of cars driving through a parking lot."
+        },
+        {
+          "media_id": "vid_intel_cars",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows two cars driving through a parking lot, which matches the user's search query for a video clip of cars driving through a parking lot."
+        },
+        {
+          "media_id": "vid_cat_salto",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows cars driving through a parking lot, which matches the user's search query for a video clip."
+        },
+        {
+          "media_id": "wm_flowers_044",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a still photo of a parking lot with cars driving through it, which does not match the user's search query for a video clip of cars driving through a parking lot."
+        }
+      ]
+    },
+    {
+      "query_id": "q29",
+      "query": "people browsing white ceramic bowls and plates in a store aisle video",
+      "scores": [
+        {
+          "media_id": "vid_intel_store",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows people browsing white ceramic bowls and plates in a store aisle, which matches the user search query. The colors, actions, setting, lighting, and spatial relationships are all "
+        },
+        {
+          "media_id": "vid_cat_salto",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image shows a clear view of a store aisle with people browsing white ceramic bowls and plates, which matches the user's search query. The candidate media type is a video, and the image is aligned "
+        },
+        {
+          "media_id": "vid_chueca_night",
+          "entity": 0.0,
+          "attribute": 0.0,
+          "media_fit": 0.0,
+          "overall": 0.0,
+          "reason": "The image does not contain any people browsing white ceramic bowls and plates in a store aisle. The query is for a video, but the image is a still photo."
+        },
+        {
+          "media_id": "vid_cat_jump_back",
+          "entity": 0.0,
+          "attribute": 0.0,
+          "media_fit": 0.0,
+          "overall": 0.0,
+          "reason": "The image does not contain any people browsing white ceramic bowls and plates in a store aisle."
+        },
+        {
+          "media_id": "vid_cat_puddle",
+          "entity": 0.0,
+          "attribute": 0.0,
+          "media_fit": 0.0,
+          "overall": 0.0,
+          "reason": "The image does not contain any people browsing white ceramic bowls and plates in a store aisle."
+        }
+      ]
+    },
+    {
+      "query_id": "q31",
+      "query": "레몬과 파인애플 과일이 놓여있는 동영상",
+      "scores": [
+        {
+          "media_id": "vid_intel_fruits",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "```json\n{\n  \"entity\": 5,\n  \"attribute\": 5,\n  \"media_fit\": 5,\n  \"overall\": 5,\n  \"reason\": \"The image clearly shows a pineapple and a cauliflower, which are the r"
+        },
+        {
+          "media_id": "vid_cat_salto",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a lemon and pineapple fruit, which matches the user's search query for a video of fruits. The colors, actions, setting, and lighting are all consistent with the query."
+        },
+        {
+          "media_id": "vid_intel_cars",
+          "entity": 5.0,
+          "attribute": 5.0,
+          "media_fit": 5.0,
+          "overall": 5.0,
+          "reason": "The image clearly shows a lemon and pineapple fruit, which matches the query request for a video of fruits. The colors, actions, setting, and lighting are all consistent with the query."
+        },
+        {
+          "media_id": "wm_flowers_043",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a still photo of a lemon and pineapple fruit, which does not match the user's query for a video of a lemon and pineapple fruit."
+        },
+        {
+          "media_id": "nasa_mars",
+          "entity": 3.0,
+          "attribute": 3.0,
+          "media_fit": 3.0,
+          "overall": 3.0,
+          "reason": "The image is a still photo of a rover on Mars, not a video of a fruit being placed on the rover. The query is for a video of fruit, not a still photo of a rover."
+        }
+      ]
+    }
+  ],
+  "rag_synthesis_samples": [
+    {
+      "query_id": "q02",
+      "query": "a cat sitting near a window",
+      "top_results": [
+        {
+          "media_id": "wm_cat_008",
+          "score": 0.8518,
+          "timestamp_sec": null
+        },
+        {
+          "media_id": "wm_cat_005",
+          "score": 0.7938,
+          "timestamp_sec": null
+        },
+        {
+          "media_id": "wm_cat_007",
+          "score": 0.6987,
+          "timestamp_sec": null
+        }
+      ],
+      "synthesized_answer": "[1] wm_cat_008 (image): A cat with a large belly is sitting on a wooden window sill. [2] wm_cat_005 (image): A cat is sitting on a bench in a garden, looking out of a window. [3] wm_cat_007 (image): A cat with a brown and white coat is sitting on a porch, looking out at the view. The cat is wearing a red hat and a green toy chicken on its back."
+    },
+    {
+      "query_id": "q04",
+      "query": "해변 위로 지는 노을과 바다 파도",
+      "top_results": [
+        {
+          "media_id": "wm_beach_sunset_021",
+          "score": 0.9197,
+          "timestamp_sec": null
+        },
+        {
+          "media_id": "wm_beach_sunset_024",
+          "score": 0.736,
+          "timestamp_sec": null
+        },
+        {
+          "media_id": "wm_beach_sunset_020",
+          "score": 0.7234,
+          "timestamp_sec": null
+        }
+      ],
+      "synthesized_answer": "The best match for the user query is [1], wm_beach_sunset_021, which depicts the main subjects as the sun setting over the ocean, with the sun casting a warm glow on the waves and rocks."
+    },
+    {
+      "query_id": "q06",
+      "query": "산속 나무 사이로 이어진 숲길 등산로",
+      "top_results": [
+        {
+          "media_id": "wm_mountain_forest_026",
+          "score": 0.7914,
+          "timestamp_sec": null
+        },
+        {
+          "media_id": "wm_mountain_forest_029",
+          "score": 0.7909,
+          "timestamp_sec": null
+        },
+        {
+          "media_id": "wm_mountain_forest_027",
+          "score": 0.7611,
+          "timestamp_sec": null
+        }
+      ],
+      "synthesized_answer": "The best match is [1], wm_mountain_forest_026, which is a serene view of a mountain trail surrounded by lush green trees and bushes."
+    },
+    {
+      "query_id": "q08",
+      "query": "pink cherry blossoms blooming on tree branches",
+      "top_results": [
+        {
+          "media_id": "wm_flowers_045",
+          "score": 0.7487,
+          "timestamp_sec": null
+        },
+        {
+          "media_id": "wm_flowers_046",
+          "score": 0.7075,
+          "timestamp_sec": null
+        },
+        {
+          "media_id": "wm_flowers_043",
+          "score": 0.65,
+          "timestamp_sec": null
+        }
+      ],
+      "synthesized_answer": "[1] wm_flowers_045 (image): The main subjects are cherry blossoms, the action is blooming, the colors are pink and green, the setting is a park, and the text is \"cherry blossoms bloom in spring\". [2] wm_flowers_046 (image): The main subjects are cherry blossoms, the action is blooming, the colors are pink and white, the setting is a park, and the text is \"sa_1057\". [3] wm_flowers_043 (image): A flower with pink and white petals, surrounded by"
+    },
+    {
+      "query_id": "q10",
+      "query": "화성 표면의 탐사 로버",
+      "top_results": [
+        {
+          "media_id": "nasa_mars",
+          "score": 0.8563,
+          "timestamp_sec": null
+        },
+        {
+          "media_id": "vid_intel_cars",
+          "score": 0.6141,
+          "timestamp_sec": 0.0
+        },
+        {
+          "media_id": "wm_beach_sunset_021",
+          "score": 0.5061,
+          "timestamp_sec": null
+        }
+      ],
+      "synthesized_answer": "The best match is [1], which is the NASA Mars Perseverance rover."
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "pageid": 11136217,
+  "ns": 6,
+  "title": "File:Black and white cat drinks from a puddle.ogv",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 6294431,
+      "width": 640,
+      "height": 480,
+      "duration": 8.996281179138322,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Black_and_white_cat_drinks_from_a_puddle.ogv?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Black_and_white_cat_drinks_from_a_puddle.ogv",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/11136217",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2010-08-09 22:02:32",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Black and white cat drinks from a puddle",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "PD-user|Media of the day|Videos taken with Fujifilm FinePix S5700|Videos by Mattes|Ogv videos|Cats of Bavaria|Video display resolution 640 x 480|Work by Mattes 2010|File uploads by User:Mattes (flat)|Videos of 2010 from Bavaria|Side views of black tabby cat heads|Black tabby and white cat portraits|Cats facing left|User:Mattes/Contributions/Topics/Nature|Language-neutral videos|User:Mattes/Contributions/Topics/Germany/Niederbayern|Videos of black and white cats|Videos of drinking cats|Animals drinking from puddles",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Black and white domestic cat drinks from a puddle.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Taken in August 2010",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Mattes\" title=\"User:Mattes\">User:Mattes</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "Public domain",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Public domain",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Copyrighted": {
+          "value": "False",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "pd",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "application/ogg"
+    }
+  ]
+}

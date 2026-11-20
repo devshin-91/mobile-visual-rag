@@ -1,0 +1,107 @@
+{
+  "pageid": 194793342,
+  "ns": 6,
+  "title": "File:Cane nell'area cani \"Il Lido di Fido\" a Chiavari.jpg",
+  "index": 10,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 19657324,
+      "width": 8192,
+      "height": 5464,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Cane_nell%27area_cani_%22Il_Lido_di_Fido%22_a_Chiavari.jpg/1280px-Cane_nell%27area_cani_%22Il_Lido_di_Fido%22_a_Chiavari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 1024,
+      "thumbheight": 683,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Cane_nell%27area_cani_%22Il_Lido_di_Fido%22_a_Chiavari.jpg/3840px-Cane_nell%27area_cani_%22Il_Lido_di_Fido%22_a_Chiavari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Cane_nell%27area_cani_%22Il_Lido_di_Fido%22_a_Chiavari.jpg/1280px-Cane_nell%27area_cani_%22Il_Lido_di_Fido%22_a_Chiavari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1024,
+        "height": 683,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Cane_nell%27area_cani_%22Il_Lido_di_Fido%22_a_Chiavari.jpg/3840px-Cane_nell%27area_cani_%22Il_Lido_di_Fido%22_a_Chiavari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Cane_nell%27area_cani_%22Il_Lido_di_Fido%22_a_Chiavari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cane_nell%27area_cani_%22Il_Lido_di_Fido%22_a_Chiavari.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/194793342",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-06-29 10:51:17",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Cane nell'area cani \"Il Lido di Fido\" a Chiavari",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Dog parks in Italy|Beaches of Chiavari|Dogs in Italy|Italy photographs taken on 2026-06-29|June 2026 in Liguria",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A dog inside the \"Il Lido di Fido\" dog-friendly public beach in the municipality of Chiavari, Metropolitan City of Genoa, Liguria, Italy.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "Taken on 29 June 2026, 09:56:20",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Marco_Del_Torchio_95\" title=\"User:Marco Del Torchio 95\">Marco Del Torchio 95</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "image/jpeg"
+    }
+  ]
+}

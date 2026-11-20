@@ -1,0 +1,11 @@
+{
+  "model_key": "M4_clip_b32_fp32",
+  "hf_id": "openai/clip-vit-base-patch32",
+  "license": "MIT",
+  "multilingual": false,
+  "is_onnx": false,
+  "embedding_dim": 512,
+  "corpus_index_sec": 2.84,
+  "image_encode_p50_ms": 45.64,
+  "text_encode_p50_ms": 21.16
+}

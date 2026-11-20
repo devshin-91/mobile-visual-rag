@@ -1,0 +1,107 @@
+{
+  "pageid": 180050331,
+  "ns": 6,
+  "title": "File:1 small street in san marino july 2025 Night in San Marino (city).jpg",
+  "index": 9,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 797323,
+      "width": 1530,
+      "height": 2040,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/1_small_street_in_san_marino_july_2025_Night_in_San_Marino_%28city%29.jpg/1280px-1_small_street_in_san_marino_july_2025_Night_in_San_Marino_%28city%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 1024,
+      "thumbheight": 1365,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/5/54/1_small_street_in_san_marino_july_2025_Night_in_San_Marino_%28city%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/1_small_street_in_san_marino_july_2025_Night_in_San_Marino_%28city%29.jpg/1280px-1_small_street_in_san_marino_july_2025_Night_in_San_Marino_%28city%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1024,
+        "height": 1365,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/5/54/1_small_street_in_san_marino_july_2025_Night_in_San_Marino_%28city%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/1_small_street_in_san_marino_july_2025_Night_in_San_Marino_%28city%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:1_small_street_in_san_marino_july_2025_Night_in_San_Marino_(city).jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/180050331",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2025-12-16 13:00:04",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "1 small street in san marino july 2025 Night in San Marino (city)",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Night in San Marino (city)",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "1 small street in san marino july 2025 Night in San Marino (city)",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-08-09 23:24:04",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:GinoOnassis&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:GinoOnassis (page does not exist)\">GinoOnassis</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "image/jpeg"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "pageid": 123858522,
+  "ns": 6,
+  "title": "File:Dog on a beach.jpg",
+  "index": 2,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 3616016,
+      "width": 3024,
+      "height": 4032,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Dog_on_a_beach.jpg/1280px-Dog_on_a_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 1024,
+      "thumbheight": 1365,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/9/92/Dog_on_a_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Dog_on_a_beach.jpg/1280px-Dog_on_a_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1024,
+        "height": 1365,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/92/Dog_on_a_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Dog_on_a_beach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dog_on_a_beach.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/123858522",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2022-10-06 19:57:28",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Dog on a beach",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Rondeau Provincial Park|Self-published work|Files with coordinates missing SDC location of creation|Dogs of Ontario|1 dog in Canada",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "42.266525",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-81.842072",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A dog at the Rondeau Provincial Park beach",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2021-08-15 16:01:13",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Unbeatable101\" title=\"User:Unbeatable101\">Unbeatable101</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "image/jpeg"
+    }
+  ]
+}

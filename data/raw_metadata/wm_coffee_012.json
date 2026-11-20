@@ -1,0 +1,107 @@
+{
+  "pageid": 156605420,
+  "ns": 6,
+  "title": "File:Cappuccino with cursive G.png",
+  "index": 1,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 22506653,
+      "width": 3024,
+      "height": 4032,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Cappuccino_with_cursive_G.png/1280px-Cappuccino_with_cursive_G.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 1024,
+      "thumbheight": 1365,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cappuccino_with_cursive_G.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Cappuccino_with_cursive_G.png/1280px-Cappuccino_with_cursive_G.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1024,
+        "height": 1365,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cappuccino_with_cursive_G.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cappuccino_with_cursive_G.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cappuccino_with_cursive_G.png",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/156605420",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-12-12 18:56:39",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Cappuccino with cursive G",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Cursive|Self-published work|Cups of coffee in Austria|Cafe Gerstner|Vienna photographs taken on 2024-11-26|Latte art in Europe|Latte art with cappuccino",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "The Cappuccino from Gerstner K. u. K. Hofzuckerbäcker (Vienna) includes an uppercase cursive G written in the Copperplate Script style.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-11-26",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Funknendai\" title=\"User:Funknendai\">Funknendai</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "image/png"
+    }
+  ]
+}

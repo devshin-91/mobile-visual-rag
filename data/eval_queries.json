@@ -1,0 +1,290 @@
+[
+  {
+    "id": "q01",
+    "split": "train",
+    "language": "en",
+    "category": "descriptive",
+    "expected_media_type": "image",
+    "query": "a brown and white dog on a sandy beach",
+    "relevant_media_ids": ["wm_dog_003", "wm_dog_001"]
+  },
+  {
+    "id": "q02",
+    "split": "test",
+    "language": "en",
+    "category": "descriptive",
+    "expected_media_type": "image",
+    "query": "a cat sitting near a window",
+    "relevant_media_ids": ["wm_cat_005", "wm_cat_006", "wm_cat_007", "wm_cat_008"]
+  },
+  {
+    "id": "q03",
+    "split": "train",
+    "language": "en",
+    "category": "descriptive",
+    "expected_media_type": "image",
+    "query": "coffee cup with latte art on a table",
+    "relevant_media_ids": ["wm_coffee_010", "wm_coffee_011", "wm_coffee_012", "wm_coffee_013", "wm_coffee_014"]
+  },
+  {
+    "id": "q04",
+    "split": "test",
+    "language": "ko",
+    "category": "descriptive",
+    "expected_media_type": "image",
+    "query": "해변 위로 지는 노을과 바다 파도",
+    "relevant_media_ids": ["wm_beach_sunset_020", "wm_beach_sunset_021", "wm_beach_sunset_024"]
+  },
+  {
+    "id": "q05",
+    "split": "train",
+    "language": "en",
+    "category": "descriptive",
+    "expected_media_type": "image",
+    "query": "rocky waterfall surrounded by green forest",
+    "relevant_media_ids": ["wm_mountain_forest_025", "wm_mountain_forest_027"]
+  },
+  {
+    "id": "q06",
+    "split": "test",
+    "language": "ko",
+    "category": "descriptive",
+    "expected_media_type": "image",
+    "query": "산속 나무 사이로 이어진 숲길 등산로",
+    "relevant_media_ids": ["wm_mountain_forest_026", "wm_mountain_forest_029"]
+  },
+  {
+    "id": "q07",
+    "split": "train",
+    "language": "ko",
+    "category": "descriptive",
+    "expected_media_type": "image",
+    "query": "노트북과 공책 펜이 놓인 책상",
+    "relevant_media_ids": ["wm_workspace_tech_040", "wm_workspace_tech_041"]
+  },
+  {
+    "id": "q08",
+    "split": "test",
+    "language": "en",
+    "category": "descriptive",
+    "expected_media_type": "image",
+    "query": "pink cherry blossoms blooming on tree branches",
+    "relevant_media_ids": ["wm_flowers_043", "wm_flowers_045", "wm_flowers_046"]
+  },
+  {
+    "id": "q09",
+    "split": "train",
+    "language": "en",
+    "category": "descriptive",
+    "expected_media_type": "image",
+    "query": "NASA rocket standing on launch pad with american flag",
+    "relevant_media_ids": ["nasa_rocket"]
+  },
+  {
+    "id": "q10",
+    "split": "test",
+    "language": "ko",
+    "category": "descriptive",
+    "expected_media_type": "image",
+    "query": "화성 표면의 탐사 로버",
+    "relevant_media_ids": ["nasa_mars"]
+  },
+  {
+    "id": "q11",
+    "split": "train",
+    "language": "ko",
+    "category": "compositional",
+    "expected_media_type": "image",
+    "query": "라떼 커피잔과 보라색 꽃병 책 스마트폰이 함께 있는 나무 테이블",
+    "relevant_media_ids": ["wm_coffee_014"]
+  },
+  {
+    "id": "q12",
+    "split": "test",
+    "language": "en",
+    "category": "compositional",
+    "expected_media_type": "image",
+    "query": "pizza slices inside a cardboard box on wooden table",
+    "relevant_media_ids": ["wm_food_018", "wm_food_019"]
+  },
+  {
+    "id": "q13",
+    "split": "train",
+    "language": "en",
+    "category": "compositional",
+    "expected_media_type": "image",
+    "query": "burger and fries served on a restaurant tray",
+    "relevant_media_ids": ["wm_food_016", "wm_food_017"]
+  },
+  {
+    "id": "q14",
+    "split": "test",
+    "language": "ko",
+    "category": "compositional",
+    "expected_media_type": "image",
+    "query": "밤에 가로등 불빛이 켜진 좁은 거리와 야시장 노점",
+    "relevant_media_ids": ["wm_city_night_030", "wm_city_night_031", "wm_city_night_032"]
+  },
+  {
+    "id": "q15",
+    "split": "train",
+    "language": "en",
+    "category": "ocr_document",
+    "expected_media_type": "image",
+    "query": "Ordinance No. 928 night market amendment document",
+    "relevant_media_ids": ["wm_city_night_033", "wm_city_night_034"]
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "language": "en",
+    "category": "compositional",
+    "expected_media_type": "image",
+    "query": "green tram number 2807 on a city street",
+    "relevant_media_ids": ["wm_transport_037"]
+  },
+  {
+    "id": "q17",
+    "split": "train",
+    "language": "ko",
+    "category": "descriptive",
+    "expected_media_type": "image",
+    "query": "우주 정거장에서 내려다본 밤의 지구",
+    "relevant_media_ids": ["nasa_earth"]
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "language": "ko",
+    "category": "compositional",
+    "expected_media_type": "image",
+    "query": "해바라기와 파란 우산이 보이는 정원",
+    "relevant_media_ids": ["wm_flowers_042"]
+  },
+  {
+    "id": "q19",
+    "split": "train",
+    "language": "ko",
+    "category": "conversational",
+    "expected_media_type": "image",
+    "query": "지난 주말에 찍은 해변 강아지 사진 좀 찾아줘",
+    "relevant_media_ids": ["wm_dog_003", "wm_dog_001", "wm_dog_000"]
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "language": "ko",
+    "category": "conversational",
+    "expected_media_type": "image",
+    "query": "어제 카페에서 마신 라떼 커피 사진 어디 있지",
+    "relevant_media_ids": ["wm_coffee_010", "wm_coffee_011", "wm_coffee_012", "wm_coffee_013", "wm_coffee_014"]
+  },
+  {
+    "id": "q21",
+    "split": "train",
+    "language": "en",
+    "category": "conversational",
+    "expected_media_type": "image",
+    "query": "Please show me the photo of my laptop and ABC notebook on the desk from last week",
+    "relevant_media_ids": ["wm_workspace_tech_040", "wm_workspace_tech_041"]
+  },
+  {
+    "id": "q22",
+    "split": "test",
+    "language": "ko",
+    "category": "conversational",
+    "expected_media_type": "image",
+    "query": "최근에 저장한 분홍색 벚꽃 사진 좀 보여줘",
+    "relevant_media_ids": ["wm_flowers_043", "wm_flowers_045", "wm_flowers_046"]
+  },
+  {
+    "id": "q23",
+    "split": "train",
+    "language": "ko",
+    "category": "video_temporal",
+    "expected_media_type": "video",
+    "query": "물웅덩이에서 물 마시는 고양이 동영상 찾아줘",
+    "relevant_media_ids": ["vid_cat_puddle"]
+  },
+  {
+    "id": "q24",
+    "split": "test",
+    "language": "en",
+    "category": "video_temporal",
+    "expected_media_type": "video",
+    "query": "cat jumping off a wall in a narrow alley video",
+    "relevant_media_ids": ["vid_cat_salto"]
+  },
+  {
+    "id": "q25",
+    "split": "train",
+    "language": "ko",
+    "category": "video_temporal",
+    "expected_media_type": "video",
+    "query": "검은색과 흰색 고양이가 방에서 점프하며 노는 영상",
+    "relevant_media_ids": ["vid_cat_jump_back"]
+  },
+  {
+    "id": "q26",
+    "split": "test",
+    "language": "ko",
+    "category": "video_temporal",
+    "expected_media_type": "video",
+    "query": "밤거리에 사람들이 많이 모여서 걸어가는 동영상",
+    "relevant_media_ids": ["vid_chueca_night"]
+  },
+  {
+    "id": "q27",
+    "split": "train",
+    "language": "en",
+    "category": "video_temporal",
+    "expected_media_type": "video",
+    "query": "cars driving through a parking lot video clip",
+    "relevant_media_ids": ["vid_intel_cars", "vid_intel_street_bike"]
+  },
+  {
+    "id": "q28",
+    "split": "test",
+    "language": "ko",
+    "category": "video_temporal",
+    "expected_media_type": "video",
+    "query": "파란 뚜껑이 달린 투명한 물병들이 줄지어 있는 영상",
+    "relevant_media_ids": ["vid_intel_bottles"]
+  },
+  {
+    "id": "q29",
+    "split": "train",
+    "language": "en",
+    "category": "video_temporal",
+    "expected_media_type": "video",
+    "query": "people browsing white ceramic bowls and plates in a store aisle video",
+    "relevant_media_ids": ["vid_intel_store"]
+  },
+  {
+    "id": "q30",
+    "split": "test",
+    "language": "en",
+    "category": "video_temporal",
+    "expected_media_type": "video",
+    "query": "students sitting at desks talking in a classroom video",
+    "relevant_media_ids": ["vid_intel_classroom"]
+  },
+  {
+    "id": "q31",
+    "split": "train",
+    "language": "ko",
+    "category": "video_temporal",
+    "expected_media_type": "video",
+    "query": "레몬과 파인애플 과일이 놓여있는 동영상",
+    "relevant_media_ids": ["vid_intel_fruits"]
+  },
+  {
+    "id": "q32",
+    "split": "test",
+    "language": "en",
+    "category": "video_temporal",
+    "expected_media_type": "video",
+    "query": "white car driving in outdoor parking lot with painted lines video",
+    "relevant_media_ids": ["vid_intel_street_bike", "vid_intel_cars"]
+  }
+]

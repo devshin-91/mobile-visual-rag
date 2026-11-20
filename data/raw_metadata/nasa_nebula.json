@@ -1,0 +1,70 @@
+{
+  "href": "https://images-assets.nasa.gov/image/NHQ202207120010/collection.json",
+  "data": [
+    {
+      "album": [
+        "20220712_JWST_First_FullColor_Images"
+      ],
+      "center": "HQ",
+      "date_created": "2022-07-12T00:00:00Z",
+      "description": "The image captured by NASA’s James Webb Space Telescope of the star-forming region called NGC 3324 in the Carina Nebula is seen on a screen as members of the media and guests watch the broadcast releasing the first full-color images from NASA’s James Webb Space Telescope, Tuesday, July 12, 2022, at NASA’s Goddard Space Flight Center in Greenbelt, Md.  The first full-color images and spectroscopic data from the James Webb Space Telescope, a partnership with ESA (European Space Agency) and the Canadian Space Agency (CSA), are a demonstration of the power of Webb as the telescope begins its science mission to unfold the infrared universe. Photo Credit: (NASA/Taylor Mickal)",
+      "keywords": [
+        "Canadian Space Agency (CSA)",
+        "ESA (European Space Agency)",
+        "Goddard Space Flight Center",
+        "Greenbelt",
+        "James Webb Space Telescope (JWST)",
+        "Maryland",
+        "Northrop Grumman",
+        "Space Telescope Science Institute (STScI)"
+      ],
+      "location": "Goddard Space Flight Center",
+      "media_type": "image",
+      "nasa_id": "NHQ202207120010",
+      "photographer": "NASA/Taylor Mickal",
+      "title": "JWST’s First Full-Color Images"
+    }
+  ],
+  "links": [
+    {
+      "href": "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~medium.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 1280,
+      "size": 106000,
+      "height": 853
+    },
+    {
+      "href": "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~small.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 640,
+      "size": 35000,
+      "height": 426
+    },
+    {
+      "href": "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~thumb.jpg",
+      "rel": "preview",
+      "render": "image",
+      "width": 640,
+      "size": 35000,
+      "height": 426
+    },
+    {
+      "href": "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~large.jpg",
+      "rel": "alternate",
+      "render": "image",
+      "width": 1920,
+      "size": 198000,
+      "height": 1280
+    },
+    {
+      "href": "https://images-assets.nasa.gov/image/NHQ202207120010/NHQ202207120010~orig.jpg",
+      "rel": "canonical",
+      "render": "image",
+      "height": 3830,
+      "width": 5745,
+      "size": 10485760
+    }
+  ]
+}

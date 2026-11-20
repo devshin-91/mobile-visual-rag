@@ -1,0 +1,107 @@
+{
+  "pageid": 156958245,
+  "ns": 6,
+  "title": "File:Cherry Blossom in Melbourne.jpg",
+  "index": 3,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 2049215,
+      "width": 3024,
+      "height": 4032,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Cherry_Blossom_in_Melbourne.jpg/1280px-Cherry_Blossom_in_Melbourne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 1024,
+      "thumbheight": 1365,
+      "responsiveUrls": {
+        "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Cherry_Blossom_in_Melbourne.jpg/1920px-Cherry_Blossom_in_Melbourne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Cherry_Blossom_in_Melbourne.jpg/1280px-Cherry_Blossom_in_Melbourne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1024,
+        "height": 1365,
+        "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Cherry_Blossom_in_Melbourne.jpg/1920px-Cherry_Blossom_in_Melbourne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cherry_Blossom_in_Melbourne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Melbourne.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/156958245",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2024-12-21 04:33:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Cherry Blossom in Melbourne",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Prunus in flower|CC-Zero|Self-published work",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A cherry blossom, as seen in a  garden in Melbourne",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-12-21 15:30:20",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:OneTrueKingLives\" title=\"User:OneTrueKingLives\">OneTrueKingLives</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "image/jpeg"
+    }
+  ]
+}

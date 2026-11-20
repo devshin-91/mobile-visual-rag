@@ -1,0 +1,50 @@
+[
+  {
+    "base_model": "M1_tinyclip_8m_fp32",
+    "onnx_int8_model": "M2_tinyclip_8m_onnx_int8",
+    "license": "MIT",
+    "vision_fp32_mb": 31.77,
+    "text_fp32_mb": 57.94,
+    "total_fp32_mb": 89.71,
+    "vision_int8_mb": 8.34,
+    "text_int8_mb": 14.62,
+    "total_int8_mb": 22.96,
+    "compression_ratio": 3.91,
+    "image_cosine_fidelity": 0.99718,
+    "text_cosine_fidelity": 0.99668,
+    "onnx_int8_cpu_text_p50_ms": 4.53,
+    "onnx_int8_cpu_image_p50_ms": 36.17
+  },
+  {
+    "base_model": "M4_clip_b32_fp32",
+    "onnx_int8_model": "M5_clip_b32_onnx_int8",
+    "license": "MIT",
+    "vision_fp32_mb": 335.34,
+    "text_fp32_mb": 242.2,
+    "total_fp32_mb": 577.53,
+    "vision_int8_mb": 84.53,
+    "text_int8_mb": 61.14,
+    "total_int8_mb": 145.68,
+    "compression_ratio": 3.96,
+    "image_cosine_fidelity": 0.98815,
+    "text_cosine_fidelity": 0.8612,
+    "onnx_int8_cpu_text_p50_ms": 45.39,
+    "onnx_int8_cpu_image_p50_ms": 93.79
+  },
+  {
+    "base_model": "M6_siglip2_base_fp32",
+    "onnx_int8_model": "M7_siglip2_base_onnx_int8",
+    "license": "Apache-2.0",
+    "vision_fp32_mb": 354.59,
+    "text_fp32_mb": 1077.14,
+    "total_fp32_mb": 1431.73,
+    "vision_int8_mb": 94.49,
+    "text_int8_mb": 269.99,
+    "total_int8_mb": 364.48,
+    "compression_ratio": 3.93,
+    "image_cosine_fidelity": 0.88064,
+    "text_cosine_fidelity": 0.96116,
+    "onnx_int8_cpu_text_p50_ms": 44.02,
+    "onnx_int8_cpu_image_p50_ms": 183.07
+  }
+]

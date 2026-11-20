@@ -1,0 +1,18 @@
+# Python virtual environment & bytecode
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.streamlit/
+
+# OS & Editor temporary files
+.DS_Store
+Thumbs.db
+
+# Large intermediate FP32/heavy ONNX exports (>30MB, regenerable via `python -m src.models.onnx_export`)
+# Ultra-compact mobile ONNX INT8 models (`M1_tinyclip_8m_fp32_*_int8.onnx`, 22.96 MB total) ARE tracked.
+exports/onnx/*_fp32.onnx
+exports/onnx/*_int8_pc.onnx
+exports/onnx/M4_clip_b32_fp32_*_int8.onnx
+exports/onnx/M6_siglip2_base_fp32_*_int8.onnx

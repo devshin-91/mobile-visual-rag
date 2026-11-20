@@ -1,0 +1,107 @@
+{
+  "pageid": 186292945,
+  "ns": 6,
+  "title": "File:Night Street Barbecue 01.jpg",
+  "index": 7,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 401449,
+      "width": 2560,
+      "height": 1244,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Night_Street_Barbecue_01.jpg/1280px-Night_Street_Barbecue_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 1024,
+      "thumbheight": 498,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/d/db/Night_Street_Barbecue_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Night_Street_Barbecue_01.jpg/1280px-Night_Street_Barbecue_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1024,
+        "height": 498,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/db/Night_Street_Barbecue_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Night_Street_Barbecue_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Night_Street_Barbecue_01.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/186292945",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2026-03-16 12:58:39",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Night Street Barbecue 01",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Self-published work|Street food in Cameroon|Images from Wiki Loves Africa 2026 in Cameroon",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "As night falls in many busy cities, street food stalls come to life, becoming more than just places to eat. They represent a means of survival for both vendors and customers. The scene of a night barbecue stall filled with roasted meats and smoke rising from the grill reflects a small but powerful part of the informal economy that sustains many people.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2026-03-16",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Alvy_Bih&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Alvy Bih (page does not exist)\">Alvy Bih</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "image/jpeg"
+    }
+  ]
+}

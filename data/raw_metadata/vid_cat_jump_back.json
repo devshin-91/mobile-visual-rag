@@ -1,0 +1,93 @@
+{
+  "pageid": 59471454,
+  "ns": 6,
+  "title": "File:Cat jumping backwards.webm",
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 2202317,
+      "width": 1920,
+      "height": 1080,
+      "duration": 18.811,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Cat_jumping_backwards.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Cat_jumping_backwards.webm",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/59471454",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2017-06-01 07:40:14",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Cat jumping backwards",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Files from external sources with reviewed licenses|Videos of jumping cats",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "A domestic cat (<i>Felis catus</i>) jumping backwards.\nIn this video, a slow-motion replay (1/4 speed) has been added to the original material.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2016-10-23",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://vimeo.com/188592921\">https://vimeo.com/188592921</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Mary Qin",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 3.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 3.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/3.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-3.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "video/webm"
+    }
+  ]
+}

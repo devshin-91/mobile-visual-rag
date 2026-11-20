@@ -1,0 +1,11 @@
+{
+  "model_key": "M3_tinyclip_40m_fp32",
+  "hf_id": "wkcn/TinyCLIP-ViT-40M-32-Text-19M-LAION400M",
+  "license": "MIT",
+  "multilingual": false,
+  "is_onnx": false,
+  "embedding_dim": 512,
+  "corpus_index_sec": 2.79,
+  "image_encode_p50_ms": 46.6,
+  "text_encode_p50_ms": 12.1
+}

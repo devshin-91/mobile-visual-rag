@@ -1,0 +1,107 @@
+{
+  "pageid": 170033643,
+  "ns": 6,
+  "title": "File:Hippo Trails Carved Through Forest Undergrowth, Murchison Falls National Park01.jpg",
+  "index": 20,
+  "imagerepository": "local",
+  "imageinfo": [
+    {
+      "size": 1367574,
+      "width": 2296,
+      "height": 4080,
+      "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Hippo_Trails_Carved_Through_Forest_Undergrowth%2C_Murchison_Falls_National_Park01.jpg/1280px-Hippo_Trails_Carved_Through_Forest_Undergrowth%2C_Murchison_Falls_National_Park01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "thumbwidth": 1024,
+      "thumbheight": 1820,
+      "responsiveUrls": {
+        "2": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hippo_Trails_Carved_Through_Forest_Undergrowth%2C_Murchison_Falls_National_Park01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      },
+      "thumbattribs": {
+        "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Hippo_Trails_Carved_Through_Forest_Undergrowth%2C_Murchison_Falls_National_Park01.jpg/1280px-Hippo_Trails_Carved_Through_Forest_Undergrowth%2C_Murchison_Falls_National_Park01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "decoding": "async",
+        "loading": "lazy",
+        "width": 1024,
+        "height": 1820,
+        "srcset": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hippo_Trails_Carved_Through_Forest_Undergrowth%2C_Murchison_Falls_National_Park01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Hippo_Trails_Carved_Through_Forest_Undergrowth%2C_Murchison_Falls_National_Park01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hippo_Trails_Carved_Through_Forest_Undergrowth,_Murchison_Falls_National_Park01.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/wiki/Special:Redirect/page/170033643",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2025-07-15 09:01:30",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Hippo Trails Carved Through Forest Undergrowth, Murchison Falls National Park01",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "CC-Zero|Murchison Falls National Park|Self-published work|Images from Wiki Loves Earth 2025 in Uganda",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "This image depicts a narrow, rocky trail through dense forest at Murchison Falls National Park, Uganda. The terrain, scattered with leaf litter and tree roots, bears the imprints of hippo movement—natural corridors formed by repeated nocturnal journeys as these large herbivores travel inland from rivers to feeding grounds. Hippos (Hippopotamus amphibius) are known to forage at night, and their habitual routes often become etched into the landscape, revealing patterns of wildlife behavior invisible during daylight hours. These trails reflect the interconnectedness of aquatic and terrestrial habitats and serve as living testimony to the park’s rich biodiversity and the rhythms of large mammal ecology.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2024-12-25 07:32:36",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:BMKME\" title=\"User:BMKME\">BMKME</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Zero, Public Domain Dedication",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "false",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      },
+      "mime": "image/jpeg"
+    }
+  ]
+}
