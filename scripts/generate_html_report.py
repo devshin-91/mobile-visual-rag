@@ -304,6 +304,25 @@ def main() -> None:
         <tbody>{paper_rows}</tbody>
       </table>
     </div>
+
+    <h2>7. 역할 분담 및 기여 내역 (Contributors &amp; Role Division)</h2>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Role</th><th>Contributor</th><th>Key Contributions Across Project Lifecycle</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><strong>Lead Architect &amp; Product Vision</strong></td>
+            <td><a href="https://github.com/devshin-91" target="_blank" style="color:var(--accent)">@devshin-91</a> (Chansu Shin)</td>
+            <td>모바일 중심 Visual RAG 기획 및 온디바이스 이식 아키텍처 방향 수립 · 오픈 라이선스 미디어/문헌 2중 팩트체크 프로토콜 설계 · 자연어 전처리(&ldquo;통문장 vs 전처리&rdquo;) 및 4축 벤치마크(인코더×검색×RAG) × RLAIF 검증 체계 설계 · 글로벌 디자인 시스템 벤치마크 디렉션 · Windows 실환경 런타임 버그(<code>WinError 10054</code>) 포착, 모델 전환(<code>Hydrogen → Argon</code>) 오케스트레이션 및 3계층 <code>Apache-2.0</code> 라이선스 거버넌스</td>
+          </tr>
+          <tr>
+            <td><strong>AI Systems Engineering &amp; Verification</strong></td>
+            <td><a href="https://github.com/antigravity-bot" target="_blank" style="color:var(--accent)">@antigravity-bot</a> (Google Antigravity)</td>
+            <td>[<code>Gemini 4 Hydrogen XHigh</code>] 26편 arXiv 논문 &amp; 61개 상용 오픈 미디어 수집·2중 검증 자동화 · 전경 활동 피크 기반 비디오 키프레임 추출(75개) 및 5종 자연어 전처리 구현 · 7종 멀티모달 인코더(ONNX INT8) × 7종 모바일 검색(10k 스케일링) × 5종 Visual RAG × 독립 VLM(<code>Qwen2-VL-2B</code>) RLAIF 보상 학습 파이프라인 구축 · Streamlit PC UI &amp; FastAPI 모바일 PWA 구현<br>[<code>Gemini 4 Argon High</code>] 전 대화·CPython <code>proactor_events.py</code>·미디어 코덱(<code>ffprobe</code>) 역추적 감사, <code>_finish_proactor_cleanup()</code> 소켓/서버 핸들 누수 패치, <code>vid_cat_puddle.ogv</code>(Theora) H.264 <code>+faststart</code> 웹 프록시 변환 및 실브라우저 무오류 스트리밍 검증</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </div>
 
   <script>

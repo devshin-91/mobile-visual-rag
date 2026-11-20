@@ -1,10 +1,11 @@
 PocketLens: Mobile-First Visual RAG & RLAIF Benchmark Suite
-Copyright 2026 Chansu Shin (devshin-91 / devshin91@gmail.com)
+Copyright 2026 Chansu Shin (@devshin-91 / devshin91@gmail.com) & Google Antigravity (@antigravity-bot)
 
-This product includes software and technical documentation developed by
-Chansu Shin (devshin91@gmail.com), licensed under the Apache License,
-Version 2.0 (for source code) and CC BY 4.0 (for benchmark reports and
-documentation).
+This product includes software and technical documentation co-developed by:
+- Chansu Shin (@devshin-91 / devshin91@gmail.com) — Lead Architect, Product Vision, Double Fact-Check & RLAIF Benchmark Design, Runtime Verification & Licensing Governance
+- Google Antigravity (@antigravity-bot, Gemini 4 Hydrogen XHigh & Gemini 4 Argon High) — AI Systems Engineering, Dataset/Literature Double Verification Pipeline, ONNX INT8 Quantization, 7-Indexer & 5-RAG Matrix, Independent VLM RLAIF Loop, Dual UI/PWA & Windows Asyncio/Codec Deep Debugging
+
+Licensed under the Apache License, Version 2.0 (for source code) and CC BY 4.0 (for benchmark reports and documentation).
 
 This repository also bundles or references commercially usable third-party
 open-license media assets, pretrained/quantized vision-language model weights,
